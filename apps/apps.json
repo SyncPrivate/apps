@@ -1,0 +1,10 @@
+[
+    {
+        "id": "douyin-chat",
+        "name": "抖音助手",
+        "desc": "抖音自动回复",
+        "home": "http://localhost:5050",
+        "relaunch": false,
+        "version": 202410122145
+    }
+]
